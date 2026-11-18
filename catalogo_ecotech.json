@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Lámpara LED",
+        "precio": 15000,
+        "stock": 20
+    },
+    {
+        "nombre": "Panel Solar Eco",
+        "precio": 250000,
+        "stock": 10,
+        "potencia": 450,
+        "eficiencia": 95
+    }
+]
